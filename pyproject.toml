@@ -1,2 +1,8 @@
 [tool.black]
 line-length = 100
+
+[tool.poetry]
+name = "floodlight"
+version = "1.0"
+description = "Dahsboard on streamlit"
+authors = ["jdferreira"]
