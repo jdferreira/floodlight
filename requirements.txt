@@ -1,5 +1,6 @@
 matplotlib
 matplotlib_venn
+millify
 numpy
 pandas
 seaborn
