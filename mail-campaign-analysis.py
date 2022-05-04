@@ -163,9 +163,9 @@ st.markdown(
     **Sent date:** {data["mail_date"]}
 
     This dashboard tries to determine the interval on which the campaign had an
-    effect, using the a level of statistical significance to find this interval.
-    You can overide this on the sidebar, in which case you will be asked to
-    select a start and end date manually.
+    effect, using a level of statistical significance to find this interval. You
+    can overide this on the sidebar, in which case you will be asked to select a
+    start and end date manually.
     """
 )
 
